@@ -3,7 +3,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4216CC&vCenter=true&width=800&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+Artificial+Intelligence+in+Education+Researcher+%2F%3E;%3C+Master's+Student+in+Seoultech+HAILAB+%2F%3E;%3C+Dreams+Don't+Have+Deadlines+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4216CC&vCenter=true&width=600&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+AI+in+Education+Researcher+%2F%3E;%3C+Master's+Student+in+Seoultech+HAILAB+%2F%3E;%3C+Dreams+Don't+Have+Deadlines+%2F%3E)](https://git.io/typing-svg)
 
 ---
 
